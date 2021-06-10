@@ -1,0 +1,1 @@
+gzip.exe -f "../data/www/index.html"
