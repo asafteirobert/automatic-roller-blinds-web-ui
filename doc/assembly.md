@@ -30,8 +30,8 @@ Or simply order the it from this link: [https://www.pcbway.com/project/shareproj
 2. Solder wires to the TX, RX, GND and 3V3 pads and connect them to your USB serial adapter.
 3. Put the ESP32 in upload mode by holding both RESET and BOOT, then releasing RESET, then releasing BOOT.
 4. Open this project in Platform IO.
-5. In Platform IO Select Build Filesystem Image, then Upload Filesystem Image
-6. Finally upload the code by selecting Upload.
+5. In Platform IO select `Build Filesystem Image`, then `Upload Filesystem Image`
+6. Finally upload the code by selecting `Upload`.
 7. Test that it works.
-8. Optionally place the board in the 3D printed case.
+8. Place the board in the 3D printed case (optional).
 <p><img src="final-in-case.jpg" width="550"/></p>
