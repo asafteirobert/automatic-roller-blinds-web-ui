@@ -668,7 +668,7 @@ void setup()
   {
       DEBUG_PRINT("WiFi couldn't connect!");
   }
-  else
+
   {
     setupServer();
     //setupOTA();
