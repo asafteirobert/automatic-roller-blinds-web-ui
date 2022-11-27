@@ -21,7 +21,7 @@ If you want to use the 3D printed case, the PCB should be around 0.8mm thick.
 
 You can find the schematic and PCB in the `schematic` folder. It contains an EasyEDA project and Gerber files.
 
-Or simply order the it from this link: [https://www.pcbway.com/project/shareproject/](https://www.pcbway.com/project/shareproject/)
+Or simply order the it from this link: https://www.pcbway.com/project/shareproject/Automatic_roller_blinds_web_interface.html
 
 
 ## Steps
