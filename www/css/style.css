@@ -1,0 +1,80 @@
+.inline-group {
+  max-width: 8rem;
+  min-width: 8rem;
+  padding: 0;
+}
+
+.inline-group .form-control {
+  text-align: center;
+}
+
+.form-control[type="number"]::-webkit-outer-spin-button,
+.form-control[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.form-control[type="number"]{
+  -moz-appearance:textfield;
+  margin: 0;
+}
+
+.table td, .table th {
+  vertical-align: middle;
+  padding-left: .5rem;
+  padding-right: .5rem;
+}
+
+.blinds-table td:first-child, .blinds-table th:first-child {
+  text-align: center;
+}
+.blinds-table td:nth-last-child(2), .blinds-table th:nth-last-child(2) {
+  text-align: right;
+}
+
+.devices-table td, .devices-table th {
+  text-align: center;
+}
+.devices-table td:nth-last-child(2) {
+  text-align: right;
+}
+
+.schedule-table td:nth-last-child(2), .schedule-table th:nth-last-child(2) {
+  text-align: right;
+}
+
+.settings-table td, .settings-table th {
+  vertical-align: middle;
+  padding: .75rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+}
+
+.presets-table td:nth-last-child(2) {
+  text-align: right;
+}
+
+.presets-table td, .presets-table th {
+  padding-top: .1rem;
+  padding-bottom: .1rem;
+}
+
+.preset-save-select
+{
+  display: inline;
+  width: auto;
+  padding-top: .1rem !important;
+}
+
+#datetimepickerSchedule
+{
+  width: 8rem;
+}
+
+.nav-tabs .nav-link.active {
+  outline:none;
+}
+
+.btn {
+  touch-action: manipulation;
+}
